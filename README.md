@@ -1,8 +1,10 @@
 # Cyberbullying
 
-Dataset: https://www.kaggle.com/datasets/sayankr007/cyber-bullying-data-for-multi-label-classification/data
+**Dataset:** [Kaggle Cyberbullying](https://www.kaggle.com/datasets/sayankr007/cyber-bullying-data-for-multi-label-classification/data)
 
-Objective: classifying comments as 'offensive', 'hate' or 'normal' based on the dataset.
+**Objective:** classifying comments as 'offensive', 'hate' or 'normal' based on the dataset.
+
+**Video Presentation:** [YouTube](https://www.youtube.com/watch?v=dwwKGG-F26U)
 
 ## Model 1: XGBoost with Default Training Set
 
