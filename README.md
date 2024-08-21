@@ -1,6 +1,6 @@
-# Cyberbullying
+# Cyberbullying Detection
 
-**Dataset:** [Kaggle Cyberbullying](https://www.kaggle.com/datasets/sayankr007/cyber-bullying-data-for-multi-label-classification/data)
+**Dataset:** [Kaggle.com Cyberbullying Detection Dataset](https://www.kaggle.com/datasets/sayankr007/cyber-bullying-data-for-multi-label-classification/data)
 
 **Objective:** classifying comments as 'offensive', 'hate' or 'normal' based on the dataset.
 
